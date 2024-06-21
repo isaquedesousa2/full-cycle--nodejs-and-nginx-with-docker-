@@ -1,1 +1,3 @@
-# full-cycle--nodejs-and-nginx-with-docker-
+Como usar
+
+Rode o comando: docker compose up --build -d
